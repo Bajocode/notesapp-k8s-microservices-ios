@@ -1,0 +1,6 @@
+[submodule "notesapp-microservice-notes"]
+	path = notesapp-microservice-notes
+	url = git@github.com:Bajocode/notesapp-microservice-notes.git
+[submodule "notesapp-frontend-ios"]
+	path = notesapp-frontend-ios
+	url = git@github.com:Bajocode/notesapp-frontend-ios.git
